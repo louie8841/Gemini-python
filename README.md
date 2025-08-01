@@ -7,7 +7,7 @@ It sends your input to the Gemini API and prints out the AI's response in real-t
 
 ## Features
 
-- Communicates with Gemini 1.5 Flash model
+- Communicates with Gemini 2.0 Flash model
 - Simple terminal interface (input/output)
 - Handles HTTP errors gracefully
 - Easy to understand and modify
