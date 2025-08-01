@@ -2,7 +2,7 @@ import urllib.request
 import json
 
 api_key = "your api key"  #you can get your api key on here "https://ai.google.dev/gemini-api/docs?hl=en" 
-api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
 
 while True:
     user_input = input("Enter question:")
